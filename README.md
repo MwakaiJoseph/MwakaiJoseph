@@ -37,5 +37,5 @@ Firebase • Cloudflare • Azure • GitHub Actions • Laravel
 
 ## 🌍 Connect With Me
 
-LinkedIn
+LinkedIn • 
 Email
